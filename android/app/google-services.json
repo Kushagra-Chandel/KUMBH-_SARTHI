@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810919191177",
+    "project_id": "kumbh-sarthi-23990",
+    "storage_bucket": "kumbh-sarthi-23990.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810919191177:android:02f7853154c3e46b029c58",
+        "android_client_info": {
+          "package_name": "com.example.kumbh_sarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNOfSYMPQwqA_LUdFrtMxZGsMkvuNhRs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
