@@ -1,14 +1,12 @@
-### **Kumbh Sarthi - README.md**  
 
-```md
-# 🚀 Kumbh Sarthi - Smart Travel Companion for Tourists 🏕️
+ Kumbh Sarthi - Smart Travel Companion for Tourists 
 
-### **📌 About Kumbh Sarthi**
+ **📌 About Kumbh Sarthi**
 Kumbh Sarthi is a smart travel companion app designed to enhance the experience of tourists by providing real-time **navigation, emergency assistance, hotel booking, language translation, and AI-powered support**. Originally developed for the **Smart India Hackathon**, the app aims to **boost the tourism industry** by integrating advanced tech features.
 
 ---
 
-## **📢 Features**
+ **📢 Features**
 ✅ **Real-Time Location Tracking** - Navigate through crowded areas easily.  
 ✅ **SOS Emergency Services** - Instant emergency help at your fingertips.  
 ✅ **Hotel & Travel Assistance** - Book hotels, find restaurants, and plan your trip.  
@@ -18,7 +16,7 @@ Kumbh Sarthi is a smart travel companion app designed to enhance the experience 
 
 ---
 
-## **📱 Tech Stack**
+ **📱 Tech Stack**
 🔹 **Flutter** - Cross-platform mobile app development.  
 🔹 **Firebase** - Authentication, Firestore, and cloud storage.  
 🔹 **Google Maps API** - For real-time navigation.  
@@ -27,37 +25,37 @@ Kumbh Sarthi is a smart travel companion app designed to enhance the experience 
 
 ---
 
-## **🚀 Getting Started**
-### **1️⃣ Prerequisites**
+ **🚀 Getting Started**
+ **1️⃣ Prerequisites**
 - Install **Flutter** ([Guide](https://flutter.dev/docs/get-started/install))
 - Install **VS Code or Android Studio**
 - Setup **Firebase Project** ([Guide](https://firebase.google.com/))
 
-### **2️⃣ Clone the Repository**
+ **2️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/your-username/Kumbh-Sarthi.git
 cd Kumbh-Sarthi
 ```
 
-### **3️⃣ Install Dependencies**
+ **3️⃣ Install Dependencies**
 ```sh
 flutter pub get
 ```
 
-### **4️⃣ Run the App**
+ **4️⃣ Run the App**
 ```sh
 flutter run
 ```
 
 ---
 
-## **🛠 Contribution Guidelines**
+ **🛠 Contribution Guidelines**
 📌 If you wish to contribute, feel free to **fork the repo** and submit a pull request!  
 📌 Follow standard **Flutter & Firebase** coding practices.  
 
 ---
 
-## **📞 Contact & Support**
+ **📞 Contact & Support**
 🔹 **Developers:**  
 - Kushagra Singh Chandel  
 - Ajeet Dwivedi  
@@ -68,12 +66,12 @@ flutter run
 
 ---
 
-## **📜 License**
+ **📜 License**
 This project is **open-source** under the **MIT License**.
 
 ---
 
-### ⭐ If you like this project, don't forget to **star** the repository! ⭐
+#⭐ If you like this project, don't forget to **star** the repository! ⭐
 ```
 
 ---
