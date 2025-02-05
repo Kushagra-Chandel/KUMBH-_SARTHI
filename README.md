@@ -77,6 +77,6 @@ This project is **open-source** under the **MIT License**.
 ---
 
 ### **🚀 Next Steps:**  
-1️⃣ **Save this content as `README.md`** in your Kumbh Sarthi folder.  
-2️⃣ **Run `git add README.md` before committing the project.**  
-3️⃣ **Push everything to GitHub.**  
+1️⃣ Save this content as `README.md` in your Kumbh Sarthi folder.  
+2️⃣ Run `git add README.md` before committing the project.  
+3️⃣ Push everything to GitHub.
