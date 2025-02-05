@@ -71,12 +71,12 @@ This project is **open-source** under the **MIT License**.
 
 ---
 
-#⭐ If you like this project, don't forget to **star** the repository! ⭐
+⭐ If you like this project, don't forget to **star** the repository! ⭐
 ```
 
 ---
 
-### **🚀 Next Steps:**  
+🚀 Next Steps:
 1️⃣ Save this content as `README.md` in your Kumbh Sarthi folder.  
 2️⃣ Run `git add README.md` before committing the project.  
 3️⃣ Push everything to GitHub.
